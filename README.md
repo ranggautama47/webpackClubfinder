@@ -67,6 +67,7 @@ Displaying football club details like Arsenal, Chelsea, and more.
 1. Prerequisites
 
 Make sure you have Node.js and npm installed on your machine.
+
 2. Installation
 
 Clone the repository and install dependencies:
