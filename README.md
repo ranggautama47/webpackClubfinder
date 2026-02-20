@@ -23,7 +23,7 @@ Initial state of the app waiting for user interaction.
 Displaying football club details like Arsenal, Chelsea, and more.
 
 # 📁 Project Structure
-
+```
 .
 ├── src/
 
@@ -52,7 +52,7 @@ Displaying football club details like Arsenal, Chelsea, and more.
 ├── webpack.prod.js         # Production configuration
 
 └── package.json            # Project dependencies and scripts
-
+```
 # 🛠️ Tech Stack
 
     JavaScript (ES6+): Core logic and Web Components.
